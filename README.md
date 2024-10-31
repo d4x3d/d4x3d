@@ -17,10 +17,11 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 
 ### 💻 Skills
 
+- `Linux` 🐧
 - `Python` 🐍
 - `Malware Analysis` 🛡️
 - `Cybersecurity` 🔒
-
+- `Internet Exploration` 🌐
 ---
 
 ### 📂 Projects
@@ -41,5 +42,4 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
   <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
   <img src="matrix-code-animation-gif-free-animated-background.gif" width="100%" alt="Matrix-like Background">
 </div>
-<
---->
+🧬
