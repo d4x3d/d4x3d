@@ -39,7 +39,7 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 
 <div align="center" style="color: #00ff99;">
   <p><i>Currently building and securing the future, one line of code at a time...</i></p>
-  <img src="https://user-images.githubusercontent.com/matrix-gif-url" width="100%" alt="Matrix-like Background">
+  <img src="matrix-code-animation-gif-free-animated-background.gif" width="100%" alt="Matrix-like Background">
 </div>
 <!---
 Davidson0071/Davidson0071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
