@@ -38,7 +38,7 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 ---
 
 <div align="center" style="color: #00ff99;">
-  <p><i>Currently building and securing the future, one line of code at a time...</i></p>
+  <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
   <img src="matrix-code-animation-gif-free-animated-background.gif" width="100%" alt="Matrix-like Background">
 </div>
 <!---
