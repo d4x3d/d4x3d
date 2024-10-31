@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/your-profile-image-url" width="150" alt="Profile Image">
+    <img src="unnamed.gif" width="150" alt="Profile Image">
 </div>
 
 ---
