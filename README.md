@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #00ff99;">Oladapo David Soliu</h1>
 <p align="center" style="color: #00ccff;">
-    <b>Cybersecurity Enthusiast | Tech Explorer</b>
+    <b>Cybersec Enthusiast | Internet Explorer</b>
 </p>
 
 <div align="center">
