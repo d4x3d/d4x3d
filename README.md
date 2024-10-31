@@ -26,7 +26,7 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 ### 📂 Projects
 
 #### [Malware Detection Application](https://github.com/Davidson0071/Malware-detection-project)
-> A Python-based malware detection tool integrating VirusTotal API for enhanced scanning capabilities.
+> A Python-based malware detection tool integrating VirusTotal API.
 
 ---
 
