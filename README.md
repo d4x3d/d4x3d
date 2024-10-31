@@ -27,7 +27,8 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 
 #### [Malware Detection Application](https://github.com/Davidson0071/Malware-detection-project)
 > A Python-based malware detection tool integrating VirusTotal API.
-
+#### [Joeme](https://github.com/Davidson0071/joeme)
+> This is a joke and meme app built with Streamlit.
 ---
 
 ### 📬 Contact
@@ -40,7 +41,5 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
   <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
   <img src="matrix-code-animation-gif-free-animated-background.gif" width="100%" alt="Matrix-like Background">
 </div>
-<!---
-Davidson0071/Davidson0071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<
 --->
