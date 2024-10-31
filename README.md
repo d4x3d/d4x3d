@@ -33,9 +33,8 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 ### 📬 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-00ccff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidson0071)
-[![Email](https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david.soliu@mail.com)
-
----
+[![Email](https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davd@proton.me)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Davidisontw)
 
 <div align="center" style="color: #00ff99;">
   <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
