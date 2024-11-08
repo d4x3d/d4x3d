@@ -8,7 +8,7 @@
 </div>
 
 ---
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=6000&pause=1000&color=244CF7&width=600&lines=On+a+journey+to+become+a+great+Ethical+Hacker%F0%9F%A5%BA;May+God+Help+Me+%F0%9F%99%8F)](https://git.io/typing-svg)
 ### 🖥️ About Me
 
 I am a passionate programmer focused on malware detection and cybersecurity. Currently on a mission to improve digital security and protect systems from evolving cyber threats.
