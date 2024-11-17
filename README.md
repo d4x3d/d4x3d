@@ -31,6 +31,9 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 #### [Joeme](https://github.com/Davidson0071/joeme)
 > This is a joke and meme app built with Streamlit.
 ---
+#### [534rchCVE](https://github.com/Davidson0071/534rchcve)
+> 534rchCVE is a powerful command-line tool for searching vulnerability information
+
 
 ### 📬 Contact
 
