@@ -14,6 +14,8 @@
 I am a passionate programmer focused on malware detection and cybersecurity. Currently on a mission to improve digital security and protect systems from evolving cyber threats.
 
 ---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4x3d&show_icons=true&theme=dracula)
+
 
 ### 💻 Skills
 
@@ -23,8 +25,7 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 - `Cybersecurity` 🔒
 - `Internet Exploration` 🌐
 ---
-
-### 📂 Projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4x3d&layout=compact)
 
 #### [Malware Detection Application](https://github.com/Davidson0071/Malware-detection-project)
 > A Python-based malware detection tool integrating VirusTotal API.
@@ -37,9 +38,9 @@ I am a passionate programmer focused on malware detection and cybersecurity. Cur
 
 ### 📬 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-00ccff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Davidson0071)
+[![GitHub](https://img.shields.io/badge/GitHub-00ccff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D4x3d)
 [![Email](https://img.shields.io/badge/Email-00ff99?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davd@proton.me)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Davidisontw)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/D4x4d)
 
 <div align="center" style="color: #00ff99;">
   <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
