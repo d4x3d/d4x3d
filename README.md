@@ -10,21 +10,26 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=6000&pause=1000&color=244CF7&width=600&lines=On+a+journey+to+become+a+great+Ethical+Hacker%F0%9F%A5%BA;May+God+Help+Me+%F0%9F%99%8F)](https://git.io/typing-svg)
 ### 🖥️ About Me
+## About Me
 
-I am a passionate programmer focused on malware detection and cybersecurity. Currently on a mission to improve digital security and protect systems from evolving cyber threats.
+- 💻 Software Developer with a passion for creating innovative solutions.
+- 🎓 Computer Science graduate.
+- 🌐 Always eager to learn and explore new technologies.
+- 🚀 Interested in AI, Machine Learning, and open-source contributions.
+
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d4x3d&show_icons=true&theme=dracula)
 
 
 ### 💻 Skills
+## Skills
 
-- `Linux` 🐧
-- `Python` 🐍
-- `Malware Analysis` 🛡️
-- `Cybersecurity` 🔒
-- `Internet Exploration` 🌐
----
+- **Languages**: Python, JavaScript, TypeScript, C++
+- **Frameworks/Libraries**: React, Node.js, Express, TensorFlow, PyTorch
+- **Tools**: Git, Docker, Kubernetes, CI/CD
+- **Databases**: MySQL, MongoDB, PostgreSQL
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4x3d&layout=compact)
 
 #### [Malware Detection Application](https://github.com/Davidson0071/Malware-detection-project)
