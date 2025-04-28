@@ -49,6 +49,6 @@
 
 <div align="center" style="color: #00ff99;">
   <p><i>Currently building and securing my future, one line of code at a time...</i> </i>May God Help Me </i></p>
-  <img src="matrix-code-animation-gif-free-animated-background.gif" width="100%" alt="Matrix-like Background">
+  <img src="https://camo.githubusercontent.com/608aef58ae9e716da474c2aac98f2db7ccfc54b8bc58e1f13685082e734f138c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f323641484f4e5137394664575a684149302f67697068792e676966" width="100%" alt="Matrix-like Background">
 </div>
 🧬
