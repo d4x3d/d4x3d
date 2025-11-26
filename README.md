@@ -8,7 +8,7 @@
 </div>
 
 ---
-([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F753D0&background=521D5879&width=435&lines=Believe+in++Yourself+more+than+anyone)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F753D0&background=521D5879&width=435&lines=Believe+in++Yourself+more+than+anyone)](https://git.io/typing-svg)
 
 ### 🖥️ About Me
 ## About Me
