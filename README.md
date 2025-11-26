@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #00ff99;">Oladapo David Soliu</h1>
+<h1 align="center" style="color: #00ff99;">Oladapo David </h1>
 <p align="center" style="color: #00ccff;">
     <b>Cybersec Enthusiast | Software Engineer </b>
 </p>
